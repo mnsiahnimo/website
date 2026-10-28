@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistics in service of better, fairer health outcomes.",
+    "section": "",
+    "text": "PhD Student in Biostatistics · University of Nebraska Medical Center\n    Statistics in service of better, fairer health outcomes.\n    I'm a research statistician with seven years of experience in biomedical research, clinical data analysis, and health disparities research. My doctoral work focuses on clinical trial methodology, Bayesian statistics, causal inference, and the integration of machine learning into biostatistical practice.\n    \n      Research Statistician\n      Data Analyst\n      Data Scientist\n    \n    \n      View publications\n       Download CV\n    \n  \n  \n    \n  \n\n\n\n\n  \n    CurrentlyPhD, Biostatistics — UNMC\n    ExperienceSeven years in biomedical research\n    TrainingMS in Statistics\n    Based inLincoln, Nebraska\n  \n\n\n\n\n  01About\n  \n    I work at the intersection of rigorous statistical methodology and applied biomedical research — designing analyses that hold up to scrutiny and translate into evidence that clinicians, investigators, and communities can use.\n    Before beginning my PhD in Biostatistics at the University of Nebraska Medical Center, I worked at the University of Texas at El Paso's Border Biomedical Research Center, supporting studies in cardiometabolic disease, inflammatory aging, cancer, and health disparities. I have contributed to federally funded projects, including the All of Us Research Program.\n    I'm both a research statistician and a data analytics professional. I use R and Python for statistical modeling — survival analysis, causal inference, general and generalized linear models, and linear mixed models — and SQL, Tableau and CRM data for descriptive and predictive analytics with higher-education and research data.\n  \n\n\n\n\n  02Research areasMore on my research →\n  \n    \n      Clinical trial methodologyDesign, monitoring, and analysis of clinical trials. [FOCUS DETAILS TO BE SUPPLIED]\n      Bayesian statisticsBayesian modeling and inference for biomedical data. [FOCUS DETAILS TO BE SUPPLIED]\n      Causal inferenceEstimating effects from observational and trial data. [FOCUS DETAILS TO BE SUPPLIED]\n      Machine learning integrationBringing machine learning into statistical practice. [FOCUS DETAILS TO BE SUPPLIED]\n    \n    \n      Applied domains\n      Cardiometabolic disease\n      Inflammatory aging\n      Cancer studies\n      Health disparities\n      Aging & multimorbidity\n    \n  \n\n\n\n\n  03Selected publicationsAll publications →\n  \n    \n      \n        In prep.\n        \n          Annual physical examinations and multimorbidity among older adults in China: evidence from the CLHLS [EXACT TITLE TO BE SUPPLIED]\n          Nsiah-Nimo M, [CO-AUTHORS TO BE SUPPLIED]\n          Manuscript in preparationAging · Multimorbidity\n        \n      \n      \n        [YEAR]\n        \n          [PUBLICATION TITLE TO BE SUPPLIED]\n          [AUTHORS TO BE SUPPLIED] · [JOURNAL TO BE SUPPLIED]\n        \n      \n    \n  \n\n\n\n\n  04Experience & educationFull CV →\n  \n    \n      \n        [START YEAR TO BE SUPPLIED] — PresentPhD Student, BiostatisticsUniversity of Nebraska Medical Center\n        Doctoral training in clinical trial methodology, Bayesian methods, causal inference, and machine learning integration.\n      \n        [DATES TO BE SUPPLIED]Research StatisticianBorder Biomedical Research Center, University of Texas at El Paso\n        Statistical analysis for biomedical and clinical studies in cardiometabolic disease, inflammatory aging, cancer, and health disparities. Contributed to federally funded projects including the All of Us Research Program.\n      \n        [DATES TO BE SUPPLIED]Data Analyst[ORGANIZATION TO BE SUPPLIED]\n        Data preparation, SQL, Tableau visualization and CRM data for higher-education and research data; descriptive and predictive analytics.\n      \n        [YEAR TO BE SUPPLIED]MS in Statistics[INSTITUTION TO BE SUPPLIED]\n    \n  \n\n\n\n\n  05Toolkit\n  \n    \n      Languages & softwareR (tidyverse, ggplot2)PythonSASSQLTableau\n      MethodsSurvival analysisCausal inferenceBayesian inferenceGeneral & generalized linear modelsLinear mixed modelsMachine learning\n      DataClinical & biomedical dataHigher-education & CRM dataDashboards & reporting\n    \n  \n\n\n\n\n  \n    Let's collaborate.\n    Open to research collaborations, statistical consulting, and conversations about biostatistics and data science in health research.\n  \n  \n     [EMAIL TO BE SUPPLIED]\n     GitHub\n     LinkedIn [URL TO BE SUPPLIED]\n     Google Scholar [URL TO BE SUPPLIED]\n     Curriculum vitae"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My doctoral work in Biostatistics at the University of Nebraska Medical Center focuses on clinical trial methodology, Bayesian statistics, causal inference, and the integration of machine learning into biostatistical practice. My applied work spans cardiometabolic disease, inflammatory aging, cancer, and health disparities."
+  },
+  {
+    "objectID": "research.html#focus",
+    "href": "research.html#focus",
+    "title": "Research",
+    "section": "",
+    "text": "My doctoral work in Biostatistics at the University of Nebraska Medical Center focuses on clinical trial methodology, Bayesian statistics, causal inference, and the integration of machine learning into biostatistical practice. My applied work spans cardiometabolic disease, inflammatory aging, cancer, and health disparities."
+  },
+  {
+    "objectID": "research.html#methodological-interests",
+    "href": "research.html#methodological-interests",
+    "title": "Research",
+    "section": "Methodological interests",
+    "text": "Methodological interests\n\n  Clinical trial methodology[FOCUS DETAILS TO BE SUPPLIED]\n  Bayesian statistics[FOCUS DETAILS TO BE SUPPLIED]\n  Causal inference[FOCUS DETAILS TO BE SUPPLIED]\n  Machine learning integration[FOCUS DETAILS TO BE SUPPLIED]"
+  },
+  {
+    "objectID": "research.html#applied-domains",
+    "href": "research.html#applied-domains",
+    "title": "Research",
+    "section": "Applied domains",
+    "text": "Applied domains\n\n  Cardiometabolic disease\n  Inflammatory aging\n  Cancer studies\n  Health disparities\n  Aging & multimorbidity"
+  },
+  {
+    "objectID": "research.html#funded-projects",
+    "href": "research.html#funded-projects",
+    "title": "Research",
+    "section": "Funded projects",
+    "text": "Funded projects\n\nAll of Us Research Program — [ROLE AND DATES TO BE SUPPLIED]\n[OTHER FEDERAL GRANT PROJECTS TO BE SUPPLIED]"
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current projects",
+    "text": "Current projects\n\nAnnual physical examinations and multimorbidity among older adults in China, using data from the Chinese Longitudinal Healthy Longevity Survey (CLHLS) — manuscript in preparation.\n[OTHER PROJECTS TO BE SUPPLIED]"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download full CV (PDF) [TO BE SUPPLIED] — add PDF to files/"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n  \n    [START YEAR TO BE SUPPLIED] — PresentPhD, BiostatisticsUniversity of Nebraska Medical Center\n  \n    [YEAR TO BE SUPPLIED]MS, Statistics[INSTITUTION TO BE SUPPLIED]"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "Curriculum Vitae",
+    "section": "Experience",
+    "text": "Experience\n\n  \n    [DATES TO BE SUPPLIED]Research StatisticianBorder Biomedical Research Center, University of Texas at El Paso\n    Statistical analysis for biomedical and clinical studies in cardiometabolic disease, inflammatory aging, cancer, and health disparities. Contributed to federally funded projects including the All of Us Research Program.\n  \n    [DATES TO BE SUPPLIED]Data Analyst[ORGANIZATION TO BE SUPPLIED]\n    Data preparation, SQL, Tableau visualization and CRM data for higher-education and research data; descriptive and predictive analytics."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming & software: R (tidyverse, ggplot2), Python, SAS, SQL, Tableau\nStatistical methods: survival analysis, causal inference, Bayesian statistics, general and generalized linear models, linear mixed models, machine learning"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nSee the Publications page for the full list."
+  },
+  {
+    "objectID": "cv.html#awards-service",
+    "href": "cv.html#awards-service",
+    "title": "Curriculum Vitae",
+    "section": "Awards & service",
+    "text": "Awards & service\n[TO BE SUPPLIED]"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "In prep.\n    \n      Annual physical examinations and multimorbidity among older adults in China: evidence from the CLHLS [EXACT TITLE TO BE SUPPLIED]\n      Nsiah-Nimo M, [CO-AUTHORS TO BE SUPPLIED]\n      Manuscript in preparation"
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications",
+    "section": "",
+    "text": "In prep.\n    \n      Annual physical examinations and multimorbidity among older adults in China: evidence from the CLHLS [EXACT TITLE TO BE SUPPLIED]\n      Nsiah-Nimo M, [CO-AUTHORS TO BE SUPPLIED]\n      Manuscript in preparation"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\n\n  \n    [YEAR]\n    \n      [PUBLICATION TITLE TO BE SUPPLIED]\n      [AUTHORS TO BE SUPPLIED] · [JOURNAL, VOLUME, PAGES TO BE SUPPLIED]\n      Peer-reviewed article"
+  },
+  {
+    "objectID": "publications.html#presentations-posters",
+    "href": "publications.html#presentations-posters",
+    "title": "Publications",
+    "section": "Presentations & posters",
+    "text": "Presentations & posters\n[TO BE SUPPLIED]"
+  }
+]

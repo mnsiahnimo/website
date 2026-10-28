@@ -1,0 +1,44 @@
+---
+title: "Curriculum Vitae"
+---
+
+```{=html}
+<p><a class="btn-pill solid" href="files/[TO BE SUPPLIED].pdf"><i class="bi bi-download" aria-hidden="true"></i> Download full CV (PDF)</a> <span class="todo">[TO BE SUPPLIED] — add PDF to files/</span></p>
+```
+
+## Education
+
+```{=html}
+<div class="timeline">
+  <div class="t-item"><div class="rail"><div class="dot now"></div><div class="stem"></div></div>
+    <div><div class="when">[START YEAR TO BE SUPPLIED] — Present</div><h3>PhD, Biostatistics</h3><div class="where">University of Nebraska Medical Center</div></div></div>
+  <div class="t-item"><div class="rail"><div class="dot open"></div><div class="stem"></div></div>
+    <div><div class="when">[YEAR TO BE SUPPLIED]</div><h3>MS, Statistics</h3><div class="where">[INSTITUTION TO BE SUPPLIED]</div></div></div>
+</div>
+```
+
+## Experience
+
+```{=html}
+<div class="timeline">
+  <div class="t-item"><div class="rail"><div class="dot"></div><div class="stem"></div></div>
+    <div><div class="when">[DATES TO BE SUPPLIED]</div><h3>Research Statistician</h3><div class="where">Border Biomedical Research Center, University of Texas at El Paso</div>
+    <p>Statistical analysis for biomedical and clinical studies in cardiometabolic disease, inflammatory aging, cancer, and health disparities. Contributed to federally funded projects including the <em>All of Us</em> Research Program.</p></div></div>
+  <div class="t-item"><div class="rail"><div class="dot"></div><div class="stem"></div></div>
+    <div><div class="when">[DATES TO BE SUPPLIED]</div><h3>Data Analyst</h3><div class="where">[ORGANIZATION TO BE SUPPLIED]</div>
+    <p>Data preparation, SQL, Tableau visualization and CRM data for higher-education and research data; descriptive and predictive analytics.</p></div></div>
+</div>
+```
+
+## Skills
+
+- **Programming & software:** R (tidyverse, ggplot2), Python, SAS, SQL, Tableau
+- **Statistical methods:** survival analysis, causal inference, Bayesian statistics, general and generalized linear models, linear mixed models, machine learning
+
+## Publications
+
+See the [Publications](publications.qmd) page for the full list.
+
+## Awards & service
+
+[[TO BE SUPPLIED]]{.todo}

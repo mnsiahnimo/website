@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Michael Nsiah-Nimo"
+  site-url: "https://mnsiahnimo.github.io/"
+  description: "PhD student in Biostatistics, University of Nebraska Medical Center — research statistician, data analyst and data scientist."
+  navbar:
+    background: light
+    right:
+      - text: "About"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: cv.qmd
+  page-footer:
+    left: "© 2026 Michael Nsiah-Nimo"
+    right: "Department of Biostatistics, University of Nebraska Medical Center"
+
+format:
+  html:
+    theme: [cosmo, green.scss]
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

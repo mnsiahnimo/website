@@ -1,0 +1,37 @@
+---
+title: "Publications"
+---
+
+## Manuscripts in preparation
+
+```{=html}
+<ol class="pubs">
+  <li>
+    <div class="yr">In prep.</div>
+    <div class="entry">
+      <div class="title">Annual physical examinations and multimorbidity among older adults in China: evidence from the CLHLS <span class="todo">[EXACT TITLE TO BE SUPPLIED]</span></div>
+      <div class="meta"><strong>Nsiah-Nimo M</strong>, <span class="todo">[CO-AUTHORS TO BE SUPPLIED]</span></div>
+      <div><span class="tag t-prog">Manuscript in preparation</span></div>
+    </div>
+  </li>
+</ol>
+```
+
+## Peer-reviewed articles
+
+```{=html}
+<ol class="pubs">
+  <li>
+    <div class="yr">[YEAR]</div>
+    <div class="entry">
+      <div class="title">[PUBLICATION TITLE TO BE SUPPLIED]</div>
+      <div class="meta">[AUTHORS TO BE SUPPLIED] · <em>[JOURNAL, VOLUME, PAGES TO BE SUPPLIED]</em></div>
+      <div><span class="tag t-article">Peer-reviewed article</span></div>
+    </div>
+  </li>
+</ol>
+```
+
+## Presentations & posters
+
+[[TO BE SUPPLIED]]{.todo}

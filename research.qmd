@@ -1,0 +1,40 @@
+---
+title: "Research"
+---
+
+## Focus
+
+My doctoral work in Biostatistics at the University of Nebraska Medical Center focuses on clinical trial methodology, Bayesian statistics, causal inference, and the integration of machine learning into biostatistical practice. My applied work spans cardiometabolic disease, inflammatory aging, cancer, and health disparities.
+
+## Methodological interests
+
+```{=html}
+<div class="cards">
+  <div class="card-i"><i class="bi bi-clipboard2-data" aria-hidden="true"></i><h3>Clinical trial methodology</h3><p><span class="todo">[FOCUS DETAILS TO BE SUPPLIED]</span></p></div>
+  <div class="card-i"><i class="bi bi-bar-chart-line" aria-hidden="true"></i><h3>Bayesian statistics</h3><p><span class="todo">[FOCUS DETAILS TO BE SUPPLIED]</span></p></div>
+  <div class="card-i"><i class="bi bi-diagram-3" aria-hidden="true"></i><h3>Causal inference</h3><p><span class="todo">[FOCUS DETAILS TO BE SUPPLIED]</span></p></div>
+  <div class="card-i"><i class="bi bi-grid-3x3-gap" aria-hidden="true"></i><h3>Machine learning integration</h3><p><span class="todo">[FOCUS DETAILS TO BE SUPPLIED]</span></p></div>
+</div>
+```
+
+## Applied domains
+
+```{=html}
+<div class="focus-row" style="margin-top:0">
+  <span class="chip-fill">Cardiometabolic disease</span>
+  <span class="chip-fill">Inflammatory aging</span>
+  <span class="chip-fill">Cancer studies</span>
+  <span class="chip-fill">Health disparities</span>
+  <span class="chip-fill">Aging &amp; multimorbidity</span>
+</div>
+```
+
+## Funded projects
+
+- *All of Us* Research Program — [[ROLE AND DATES TO BE SUPPLIED]]{.todo}
+- [[OTHER FEDERAL GRANT PROJECTS TO BE SUPPLIED]]{.todo}
+
+## Current projects
+
+- Annual physical examinations and multimorbidity among older adults in China, using data from the Chinese Longitudinal Healthy Longevity Survey (CLHLS) — manuscript in preparation.
+- [[OTHER PROJECTS TO BE SUPPLIED]]{.todo}
