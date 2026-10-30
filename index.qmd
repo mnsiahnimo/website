@@ -45,6 +45,7 @@ body-classes: home
     <p class="lead-p">I work at the intersection of rigorous statistical methodology and applied biomedical research — designing analyses that hold up to scrutiny and translate into evidence that clinicians, investigators, and communities can use.</p>
     <p>Before beginning my PhD in Biostatistics at the University of Nebraska Medical Center, I worked at the University of Texas at El Paso's Border Biomedical Research Center, supporting studies in cardiometabolic disease, inflammatory aging, cancer, and health disparities. I have contributed to federally funded projects, including the <em>All of Us</em> Research Program.</p>
     <p>I'm both a research statistician and a data analytics professional. I use R and Python for statistical modeling — survival analysis, causal inference, general and generalized linear models, and linear mixed models — and SQL, Tableau and CRM data for descriptive and predictive analytics with higher-education and research data.</p>
+    <p>Beyond the data, I write at <a href="https://professinggod.com">ProfessingGod.com</a> about a different kind of inquiry: the knowledge of God, the transformation it brings, and the calling to live as witnesses of the light. If you've ever wondered how faith and rigorous thinking meet, I'd be glad to have you read along.</p>
   </div>
 </section>
 
